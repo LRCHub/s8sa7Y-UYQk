@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ステイ・ダウン",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T10:37:34.064494Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stay Down (feat. BLEU)",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Stay_Down_(feat._BLEU)_Ne-Yo.txt"
+    }
+  ]
+}
